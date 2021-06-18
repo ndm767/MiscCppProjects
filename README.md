@@ -1,2 +1,2 @@
 # MiscCppProjects
-Miscellanious small C++ projects
+Miscellaneous small C++ projects
