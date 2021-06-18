@@ -19,7 +19,7 @@ int main(int argc, char* argv[]){
         if(i%3 != 0 && i%5 != 0){
             printf("%i", i);
         }
-        printf(" ");
+        printf("\n");
     }
     printf("\n");
     return 0;
