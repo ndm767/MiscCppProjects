@@ -13,3 +13,4 @@ Miscellaneous small C++ projects
 | ncurses_snake | snake using ncurses as a display |
 | pascalsTriangle | outputs pascal's triangle. Can go up to 21 rows until it runs out of space |
 | sieveOfEratosthenes | finds prime numbers up to a certain number |
+| rng | simple psuedo-random number generator |  
