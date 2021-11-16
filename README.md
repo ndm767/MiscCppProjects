@@ -1,5 +1,5 @@
 # MiscCppProjects
-Miscellaneous small C++ projects
+Miscellaneous small C++ projects. All of these were made in an hour or less, mostly out of boredom.
 
 | **Project** | **Description** |
 | ----------- | --------------- |
